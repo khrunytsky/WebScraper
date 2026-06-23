@@ -88,6 +88,37 @@
         "purchase_date": "2026-02-04 12:15:39"
     },
     {
+        "opinion_id": "20567447",
+        "author": "k...7",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Mam ją zaledwie kilka dni, konfiguracja dość prosta, drukowanie intuicyjne",
+        "pros": [],
+        "cons": [],
+        "helpful": "0",
+        "unhelpful": "0",
+        "publish_date": "2026-05-29 08:04:49",
+        "purchase_date": "2026-05-23 12:41:02"
+    },
+    {
+        "opinion_id": "19533453",
+        "author": "s...s",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Ciężko powiedziećz uwagi na zbyt krótki okres użytkowania",
+        "pros": [
+            "jakość wydruków",
+            "szybkość wydruku",
+            "wydajna",
+            "wydajność"
+        ],
+        "cons": [],
+        "helpful": "0",
+        "unhelpful": "0",
+        "publish_date": "2025-03-19 08:38:06",
+        "purchase_date": "2025-03-02 22:01:32"
+    },
+    {
         "opinion_id": "18035211",
         "author": "k...i",
         "recommendation": "Polecam",
@@ -125,24 +156,6 @@
         "purchase_date": "2023-06-12 11:39:26"
     },
     {
-        "opinion_id": "19533453",
-        "author": "s...s",
-        "recommendation": "Polecam",
-        "rating": "5/5",
-        "content": "Ciężko powiedziećz uwagi na zbyt krótki okres użytkowania",
-        "pros": [
-            "jakość wydruków",
-            "szybkość wydruku",
-            "wydajna",
-            "wydajność"
-        ],
-        "cons": [],
-        "helpful": "0",
-        "unhelpful": "0",
-        "publish_date": "2025-03-19 08:38:06",
-        "purchase_date": "2025-03-02 22:01:32"
-    },
-    {
         "opinion_id": "17554471",
         "author": "j...7",
         "recommendation": "Polecam",
@@ -154,27 +167,5 @@
         "unhelpful": "0",
         "publish_date": "2023-05-27 06:48:00",
         "purchase_date": "2023-05-18 15:00:35"
-    },
-    {
-        "opinion_id": "17486388",
-        "author": "r...8",
-        "recommendation": "Polecam",
-        "rating": "4,5/5",
-        "content": "Drukarka bardzo dobra, może trochę dużych rozmiarów.",
-        "pros": [
-            "czyste napełnianie atramentem",
-            "głośność pracy",
-            "jakość wydruków",
-            "jakość wydruku",
-            "niski koszt wydruku",
-            "szybkość wydruku",
-            "wydajna",
-            "wydajność"
-        ],
-        "cons": [],
-        "helpful": "0",
-        "unhelpful": "0",
-        "publish_date": "2023-05-08 23:57:47",
-        "purchase_date": "2023-04-22 13:30:38"
     }
 ]
